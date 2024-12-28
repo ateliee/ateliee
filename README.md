@@ -1,6 +1,6 @@
-
-[![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![GitHub-Profile-Summary-Cards](https://github.com/ateliee/ateliee/actions/workflows/profile-summary-cards.yml/badge.svg)](https://github.com/ateliee/ateliee/actions/workflows/profile-summary-cards.yml)
 ![](https://komarev.com/ghpvc/?username=ateliee&color=red)
+
+[![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ateliee/ateliee/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
